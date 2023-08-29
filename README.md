@@ -19,7 +19,7 @@ docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
 ```
 Open `http://localhost:8088` in your browser.
 
-#How do I run a container
+# How do I run a container
 ```
 Steps: 
 1. In this guide, you create an image using a Dockerfile and a sample application.
